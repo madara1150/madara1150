@@ -1,14 +1,10 @@
 Hi !
 ==============================================================================================================================
 
-Web Developer
+Developer
 -------------
 
 * 🌍  I'm based in Bangkok KMITL
-* ✉️  You can contact me at [boathh31@gmail.com](mailto:boathh31@gmail.com)
-* ⚡  I'm Boat
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/madara1150" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>

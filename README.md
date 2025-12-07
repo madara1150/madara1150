@@ -1,15 +1,44 @@
-Hi !
-==============================================================================================================================
+<!-- Banner -->
+<h1 align="center">👋 Hi, I'm Madara1150</h1>
 
-Developer
--------------
+<p align="center">
+  <b>Full-stack Developer | Rust • TypeScript • Next.js • Odoo</b><br/>
+  Passionate about building clean, scalable systems and exploring modern tech.
+</p>
 
-* 🌍  I'm based in Bangkok KMITL
+---
 
-<p align="left"> <a href="https://www.github.com/madara1150" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+## 🚀 About Me
+- 🇹🇭 Developer based in Thailand  
+- 💼 Currently into a **Developer (Odoo)** role  
+- 💻 Love building **modern web apps**, **APIs**, and **automation tools**  
+- 📚 Always learning new technologies: Rust, Next.js, System Design  
+- 🎯 Goal: Become a hybrid **Tech Lead** who bridges business & engineering
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🛠 Tech Stack
 
-<a href="http://www.github.com/madara1150"><img src="https://github-readme-stats.vercel.app/api?username=madara1150&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=000000&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="madara1150's GitHub stats" />
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,rust,html,css,java" />
+</p>
+
+### **Frameworks & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react,tailwind,prisma,docker,nestjs,nuxtjs" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### **Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,linux" />
+</p>
+
+---
+
+

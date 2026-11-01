@@ -57,12 +57,9 @@ A Thai and English typing trainer that began as a C console program and grew int
 ### More · ผลงานอื่นๆ
 
 <p align="center">
-  <a href="https://github.com/madara1150/project_link_github"><img src="assets/cards/project-link-github.svg" width="385" alt="Project GitHub Integration: Odoo tasks synced with GitHub pull requests" /></a>
-  <a href="https://github.com/madara1150/budget"><img src="assets/cards/budget.svg" width="385" alt="Budget Suite: Odoo budgeting modules" /></a>
-  <a href="https://github.com/madara1150/profile"><img src="assets/cards/portfolio.svg" width="385" alt="Personal Portfolio: Next.js site with a Go API" /></a>
-  <a href="https://github.com/madara1150/base_tier_validation_step"><img src="assets/cards/tier-validation.svg" width="385" alt="Tier Validation Step: OCA approval flow extension" /></a>
-  <a href="https://github.com/madara1150/handTracker"><img src="assets/cards/hand-tracker.svg" width="385" alt="Hand Tracking Game: computer vision project" /></a>
-  <a href="https://github.com/madara1150/docker-odoo"><img src="assets/cards/docker-odoo.svg" width="385" alt="Docker Odoo: Odoo 16 with Docker Compose" /></a>
+  <a href="https://github.com/madara1150/WPM"><img src="assets/cards/just-type.svg" width="385" alt="JUST TYPE: Thai and English typing trainer" /></a>
+  <a href="https://github.com/madara1150/nicetry_project"><img src="assets/cards/nicetry.svg" width="385" alt="NiceTry: story-sharing site with Nice coins" /></a>
+  <a href="https://github.com/madara1150/builder-discord"><img src="assets/cards/builder-discord.svg" width="385" alt="Builder Discord: Discord shop server bot" /></a>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt="" />

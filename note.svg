@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 816 116" width="816" height="116" role="img" aria-label="Note of the day">
+  <title>Note of the day</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fdf9ee"/><stop offset="1" stop-color="#f3ecd8"/></linearGradient></defs>
+  <style>
+    @keyframes grow { from { transform: scaleX(0); } }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px); } }
+    .bar { transform-box: fill-box; transform-origin: left; animation: grow 1.8s cubic-bezier(.2, .8, .2, 1) backwards; }
+    .fade { animation: fade 1.2s ease-out backwards; }
+    @media (prefers-reduced-motion: reduce) { .bar, .fade { animation: none; } }
+  </style>
+  <rect width="816" height="116" rx="14" fill="url(#g)"/>
+  <rect x=".75" y=".75" width="814.5" height="114.5" rx="13.5" fill="none" stroke="#d8cdaf" stroke-width="1.5"/>
+  <g font-family="'Segoe UI','Noto Sans Thai','Sarabun',Tahoma,system-ui,sans-serif">
+    <text class="fade" x="30" y="36" fill="#b5764c" font-size="12" font-weight="600" letter-spacing="1.5">TODAY'S NOTE · บันทึกวันนี้</text>
+    <text x="786" y="36" text-anchor="end" fill="#a39573" font-size="11">2026-11-07</text>
+    <text class="fade" style="animation-delay:.3s" x="30" y="67" fill="#2f4634" font-family="Georgia,'Noto Serif Thai','Sarabun','Leelawadee UI',Tahoma,serif" font-size="19">Delete code whenever you can. It has no bugs once gone.</text>
+    <text class="fade" style="animation-delay:.6s" x="30" y="95" fill="#7a6a4c" font-size="16">ลบโค้ดได้ก็ลบ โค้ดที่ไม่มีอยู่ไม่มีบั๊ก</text>
+  </g>
+</svg>

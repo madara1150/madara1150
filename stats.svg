@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240" role="img" aria-label="GitHub stats">
+  <title>GitHub stats</title>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fdf9ee"/><stop offset="1" stop-color="#f3ecd8"/></linearGradient></defs>
+  <style>
+    @keyframes grow { from { transform: scaleX(0); } }
+    @keyframes fade { from { opacity: 0; transform: translateY(6px); } }
+    .bar { transform-box: fill-box; transform-origin: left; animation: grow 1.8s cubic-bezier(.2, .8, .2, 1) backwards; }
+    .fade { animation: fade 1.2s ease-out backwards; }
+    @media (prefers-reduced-motion: reduce) { .bar, .fade { animation: none; } }
+  </style>
+  <rect width="400" height="240" rx="14" fill="url(#g)"/>
+  <rect x=".75" y=".75" width="398.5" height="238.5" rx="13.5" fill="none" stroke="#d8cdaf" stroke-width="1.5"/>
+  <g font-family="'Segoe UI','Noto Sans Thai','Sarabun',Tahoma,system-ui,sans-serif">
+    <text x="24" y="40" fill="#2f4634" font-family="Georgia,'Noto Serif Thai','Sarabun','Leelawadee UI',Tahoma,serif" font-size="19" font-weight="700">At a Glance <tspan fill="#7a6a4c" font-size="14" font-weight="400">· ภาพรวม</tspan></text>
+    <text x="376" y="38" text-anchor="end" fill="#a39573" font-size="11">2026-11-07 · 2 followers</text>
+    <g class="fade" style="animation-delay:0s">
+      <text x="24" y="86" fill="#2f4634" font-family="Georgia,'Noto Serif Thai','Sarabun','Leelawadee UI',Tahoma,serif" font-size="27" font-weight="700">769</text>
+      <text x="24" y="106" fill="#44524a" font-size="12">contributions · 12 months</text>
+      <text x="24" y="123" fill="#7a6a4c" font-size="12">การมีส่วนร่วมในรอบปี</text>
+    </g>
+    <g class="fade" style="animation-delay:0.2s">
+      <text x="200" y="86" fill="#2f4634" font-family="Georgia,'Noto Serif Thai','Sarabun','Leelawadee UI',Tahoma,serif" font-size="27" font-weight="700">6 days</text>
+      <text x="200" y="106" fill="#44524a" font-size="12">current streak</text>
+      <text x="200" y="123" fill="#7a6a4c" font-size="12">ทำต่อเนื่องตอนนี้</text>
+    </g>
+    <g class="fade" style="animation-delay:0.4s">
+      <text x="24" y="162" fill="#2f4634" font-family="Georgia,'Noto Serif Thai','Sarabun','Leelawadee UI',Tahoma,serif" font-size="27" font-weight="700">7 days</text>
+      <text x="24" y="182" fill="#44524a" font-size="12">longest streak · 12 months</text>
+      <text x="24" y="199" fill="#7a6a4c" font-size="12">ต่อเนื่องนานที่สุด</text>
+    </g>
+    <g class="fade" style="animation-delay:0.6000000000000001s">
+      <text x="200" y="162" fill="#2f4634" font-family="Georgia,'Noto Serif Thai','Sarabun','Leelawadee UI',Tahoma,serif" font-size="27" font-weight="700">30</text>
+      <text x="200" y="182" fill="#44524a" font-size="12">public repositories</text>
+      <text x="200" y="199" fill="#7a6a4c" font-size="12">โปรเจกต์สาธารณะ</text>
+    </g>
+  </g>
+</svg>
